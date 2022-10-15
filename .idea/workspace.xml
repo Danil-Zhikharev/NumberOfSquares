@@ -75,7 +75,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SQRServiceTest_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SQRServiceTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="NumberOfSquares" />
       <extension name="coverage">
         <pattern>
@@ -84,13 +84,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.netology.sqr" />
-      <option name="MAIN_CLASS_NAME" value="ru.netology.sqr.SQRServiceTest_1" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.sqr.SQRServiceTest1" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SQRServiceTest_1.ShouldCalcSQR" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SQRServiceTest1.ShouldCalcSQR" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="NumberOfSquares" />
       <extension name="coverage">
         <pattern>
@@ -99,14 +99,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.netology.sqr" />
-      <option name="MAIN_CLASS_NAME" value="ru.netology.sqr.SQRServiceTest_1" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.sqr.SQRServiceTest1" />
       <option name="METHOD_NAME" value="ShouldCalcSQR(int,int)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SQRServiceTest_1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SQRServiceTest1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="NumberOfSquares" />
       <extension name="coverage">
         <pattern>
@@ -115,9 +115,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.netology.sqr" />
-      <option name="MAIN_CLASS_NAME" value="ru.netology.sqr.SQRServiceTest_1" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.sqr.SQRServiceTest1" />
       <option name="METHOD_NAME" value="test(int,int)" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQRServiceTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NumberOfSquares" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.sqr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.sqr" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.sqr.SQRServiceTest2" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,21 +149,6 @@
       <option name="MAIN_CLASS_NAME" value="ru.netology.sqr.SQRServiceTest_1" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SQRServiceTest_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="NumberOfSquares" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.netology.sqr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.netology.sqr" />
-      <option name="MAIN_CLASS_NAME" value="ru.netology.sqr.SQRServiceTest_2" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -178,19 +178,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TestDefault" />
-      <item itemvalue="JUnit.SQRServiceTest_1" />
-      <item itemvalue="JUnit.SQRServiceTest_1.ShouldCalcSQR" />
-      <item itemvalue="JUnit.SQRServiceTest_1.test" />
-      <item itemvalue="JUnit.SQRServiceTest_2" />
+      <item itemvalue="JUnit.SQRServiceTest1" />
+      <item itemvalue="JUnit.SQRServiceTest1.ShouldCalcSQR" />
+      <item itemvalue="JUnit.SQRServiceTest1.test" />
+      <item itemvalue="JUnit.SQRServiceTest2" />
       <item itemvalue="Maven.TestDefault" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SQRServiceTest_2" />
+        <item itemvalue="JUnit.SQRServiceTest2" />
         <item itemvalue="JUnit.SQRServiceTest_1.test" />
-        <item itemvalue="JUnit.SQRServiceTest_1.test" />
-        <item itemvalue="JUnit.SQRServiceTest_1" />
-        <item itemvalue="JUnit.SQRServiceTest_1.ShouldCalcSQR" />
+        <item itemvalue="JUnit.SQRServiceTest1.test" />
+        <item itemvalue="JUnit.SQRServiceTest1" />
+        <item itemvalue="JUnit.SQRServiceTest1.ShouldCalcSQR" />
       </list>
     </recent_temporary>
   </component>
