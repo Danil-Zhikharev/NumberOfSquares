@@ -67,7 +67,7 @@
       <recent name="ru.netology.sqr" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SQRServiceTest_2">
+  <component name="RunManager" selected="Application.TestDefault">
     <configuration name="TestDefault" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="jdk.tools.jmod.Main" />
       <module name="NumberOfSquares" />
